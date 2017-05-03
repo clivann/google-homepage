@@ -1,9 +1,24 @@
 .logo {
-  height:130px;
-  width:386px;
+  height:90px;
+  width:260px;
   background-image: url("googlelogo.png");
   background-repeat:no-repeat;
   top:200px;
-  position:absolute;
-  background-size:260px 80px;
+  position:relative;
+  background-size:260px 90px;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+.israel {
+  height:30px;
+  width:30px;
+  position:relative;
+  top:70px;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  left:90px;
+  font: 16px;
+  font-family: arial;
 }
