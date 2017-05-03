@@ -1,0 +1,9 @@
+.logo {
+  height:130px;
+  width:386px;
+  background-image: url("googlelogo.png");
+  background-repeat:no-repeat;
+  top:200px;
+  position:absolute;
+  background-size:260px 80px;
+}
