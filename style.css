@@ -45,4 +45,27 @@
   box-shadow: 0 8px 6px -6px grey;
 }
   
+.nave {
+  list-style-type:none;
+  top:10px;
+  position:absolute;
+ 
+  
+}
+li {
+   padding:6px;
+   display:inline;
+   text:none;
+}
+a:link {
+  text-decoration:none;
+  color:black;
+  font-family:arial;
+ font-size:13px;
+}
+#enter {
+  color:yellow;
+  background-color:	#3B88EB;
+  padding:7px 12px ;
+  border-radius:3px;
 }
