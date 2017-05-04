@@ -5,15 +5,16 @@
 */
 .logo {
   height:90px;
-  width:260px;
+  width:350px;
   background-image: url("googlelogo.png");
   background-repeat:no-repeat;
   top:200px;
-  position:relative;
+  position:absolute;
   background-size:260px 90px;
   margin-left:auto;
   margin-right:auto;
   display:block;
+  left:500px;
 }
 .israel {
   height:30px;
@@ -23,7 +24,7 @@
   margin-left:auto;
   margin-right:auto;
   display:block;
-  left:100px;
+  left:55px;
   font: 16px;
   font-family: arial;
   
@@ -41,7 +42,7 @@
   position:relative;
   padding:8px;
   margin: auto;
-  right:150px;
+  right:170px;
   box-shadow: 0 8px 6px -6px grey;
 }
   
@@ -68,4 +69,19 @@ a:link {
   background-color:	#3B88EB;
   padding:7px 12px ;
   border-radius:3px;
+}
+.search {
+  top: 100px;
+  position:relative;
+  right:20px;
+}
+#luck {
+  background-color:lightgray;
+  padding:10px;
+  position:relative;
+}
+#goo {
+  background-color:lightgray;
+    padding:10px;
+    position:relative;
 }
